@@ -1,0 +1,14 @@
+body{
+    background-color: #93b6f7;
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+.grande{
+    font-size: 10rem;
+    color: orange;
+    font-weight: bold;
+    margin: 0 0;
+}
