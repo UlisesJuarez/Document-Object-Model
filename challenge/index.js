@@ -1,0 +1,1 @@
+document.firstElementChild.lastElementChild.firstElementChild.innerHTML = "Hola me modifique con ayuda del DOM"
